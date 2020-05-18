@@ -1,2 +1,2 @@
 # kotlin-android-sdk
-Privacy tools for Kotlin Android by Safe.
+Privacy tool SDK for Kotlin Android by Safe.
